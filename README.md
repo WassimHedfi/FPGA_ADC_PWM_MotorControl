@@ -35,7 +35,7 @@ This repository contains the implementation of a motor speed control system usin
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FPGA_ADC_PWM_MotorControl.git
+   git clone https://github.com/WassimHedfi/FPGA_ADC_PWM_MotorControl
    cd FPGA_ADC_PWM_MotorControl
    ```
 2. Open the project in your FPGA development environment.
