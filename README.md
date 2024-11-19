@@ -40,11 +40,11 @@ This repository contains the implementation of a motor speed control system usin
    ```
 2. Open the project in your FPGA development environment.
 3. Synthesize and program the FPGA with the provided HDL files.
-4. Connect the hardware as per the wiring diagram in docs/hardware_setup.pdf.
+4. Connect the hardware.
 5. Test the system by adjusting the potentiometer to vary motor speed.
    
 ### 📈 Results
-The system allows smooth and precise motor speed control in real-time.
+The system allows smooth and precise motor speed control in real time.
 
 ### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
